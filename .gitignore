@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+heart_2022_no_nans.csv
